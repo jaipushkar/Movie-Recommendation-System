@@ -1,8 +1,8 @@
 # Movie-Recommendation-System
 
-**Special Thanks (CampusX -- Youtube Channel) for this learning**
-**Special Thanks to SOURAV SAHOO for the DataSet**
-**DataSet Link **https://www.kaggle.com/datasets/souravdatascience/tmdb-5000-movies-details**** 
+**Special Thanks (CampusX -- Youtube Channel) for this learning.**
+**Special Thanks to SOURAV SAHOO for the DataSet.**
+**DataSet Link: **https://www.kaggle.com/datasets/souravdatascience/tmdb-5000-movies-details**** 
 
 **Overview**
 This project implements a movie recommendation system using content-based filtering. The system suggests movies based on the similarities between the tags of movies, which include genres, keywords, cast, crew, and overview.
